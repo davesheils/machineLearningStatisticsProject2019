@@ -12,9 +12,7 @@ Use inferential statistics to analyse whether there is a significant difference 
 Use keras to create a neural network that can predict the median house price based on the other variables in the dataset
 
 
-The workings and the results are contained in this [Jupyter Notebook] (https://github.com/davesheils/machineLearningStatisticsProject2019/blob/master/Project%20Notebook.ipynb)
-
-[Jupyter Notebook](https://github.com/davesheils/machineLearningStatisticsProject2019/blob/master/Project%20Notebook.ipynb)
+The workings and the results are contained in this [Jupyter Notebook](https://github.com/davesheils/machineLearningStatisticsProject2019/blob/master/Project%20Notebook.ipynb)
 
 
 
