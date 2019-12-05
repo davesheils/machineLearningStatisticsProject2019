@@ -1,10 +1,12 @@
 ### Contents and Assignment Objectives
 
 - **Describe**
-Use descriptive statistics and plots to describe the Boston House Prices dataset
+Use descriptive statistics and plots to describe the Boston House Prices dataset;
+To visualise the variance in houseprices;
+Preliminary investigations into the relationship between median house price and other factors, as represented by other variables in the dataset.
 
 - **Infer**
-Use inferential statistics to analyse whether there is a significant difference in median house prices between houses that are along the Charles river and those that are not.
+This is treated as a case study in analysing the relationship between house price and other variables, namely location. More specifically, inferential statistics are employed to analyse whether there is a significant difference in median house prices between houses that are along the Charles river and those that are not.
 
 - **Predict**
 Use [keras](https://keras.io/) to create a neural network that can predict the median house price based on the other variables in the dataset
