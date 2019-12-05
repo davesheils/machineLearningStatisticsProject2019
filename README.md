@@ -14,7 +14,7 @@ Use keras to create a neural network that can predict the median house price bas
 
 The workings and the results are contained in this [Jupyter Notebook] (https://github.com/davesheils/machineLearningStatisticsProject2019/blob/master/Project%20Notebook.ipynb)
 
-[link to Google!](http://google.com)
+[link to Google!](https://github.com/davesheils/machineLearningStatisticsProject2019/blob/master/Project%20Notebook.ipynb)
 
 
 
