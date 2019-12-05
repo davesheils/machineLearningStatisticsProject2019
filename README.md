@@ -13,6 +13,3 @@ Use [keras] (https://keras.io/) to create a neural network that can predict the 
 The workings and the results are contained in this [Jupyter Notebook](https://github.com/davesheils/machineLearningStatisticsProject2019/blob/master/Project%20Notebook.ipynb)
 
 You can find out more about Jupyter Notebooks on the [Project Jupyter](https://jupyter.org/)
-
-
-
